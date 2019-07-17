@@ -1,7 +1,7 @@
 # Title: Anti Bias Media
 # Licence: https://raw.githubusercontent.com/festum/anti-bias-media/master/LICENSE
 # Source: https://raw.githubusercontent.com/festum/anti-bias-media/master/hosts.txt
-# Version: 20190627
+# Version: 20190717
 
 # TW-聯合報系
 ## 北美世界日報(World Journal/Chinese Daily News)
@@ -1121,6 +1121,7 @@
 0.0.0.0 buzzjoker.com
 0.0.0.0 buzzlife.com.tw
 0.0.0.0 buzznews.news
+0.0.0.0 buzzorange.com
 0.0.0.0 ccolorsky.blogspot.com
 0.0.0.0 ccolorsky.blogspot.net
 0.0.0.0 changepw.com
