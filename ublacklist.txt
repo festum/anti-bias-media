@@ -393,6 +393,7 @@
 *://thegreatdaily.com/*
 *://thegreendaily.net/*
 *://thehealthdaily.org/*
+*://theinitium.com/
 *://tipelse.com/*
 *://toments.com/*
 *://ttshow.tw/*
@@ -416,6 +417,7 @@
 *://womanaaa.com/*
 *://wonder4.co/*
 *://worldjournal.com/*
+*://www.storm.mg/
 *://xibao.tw/*
 *://xuehua.us/*
 *://xuxianghui.cc/*
